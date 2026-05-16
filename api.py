@@ -21,5 +21,3 @@ print(f"Bem vindo ao Mecado Livre {nome}! O seu email é {email}. O seu telefone
 # bairro= dados ['bairro']
 # cidade = dados ['localidade']
 
-
-
